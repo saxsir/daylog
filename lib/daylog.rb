@@ -1,5 +1,5 @@
 module Daylog
   def self.hello()
-    p "Hello, Daylog"
+    return "Hello, Daylog"
   end
 end
